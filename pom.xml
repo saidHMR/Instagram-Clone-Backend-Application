@@ -14,7 +14,7 @@
 	<name>Instagram Clone Back-end Application</name>
 	<description>Instagram Clone Back-end Application Project using MVC Architecture </description>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
